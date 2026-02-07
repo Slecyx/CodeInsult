@@ -2,7 +2,7 @@
     "name": "code-insult",
     "displayName": "CodeInsult",
     "description": "A savage/sarcastic VS Code extension that roasts you when you make errors. (Hata yaptığınızda sizi aşağılayan sarkastik eklenti.)",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "slecyx",
     "author": {
         "name": "Slecyx"
