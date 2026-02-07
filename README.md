@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=Slecyx.code-insult">View on Visual Studio Marketplace</a>
+</p>
+
+<p align="center">
   <a href="#english">English</a> • <a href="#turkish">Türkçe</a>
 </p>
 
