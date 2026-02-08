@@ -92,6 +92,8 @@ const insultLibrary: { [lang: string]: { [key: string]: string[] } } = {
         ],
         'generic': [
             "StackOverflow bile şu an senden utanıyor.",
+            "Terry Davis'e mezarında takla attırdın. Tebrikler! Yazlımcılığı bırakta akrobasi öğretmeni ol.",
+            "Richard Stallman bile senin projenin özgür olmasını istemiyor, Bu kod gün yüzüne çıkmamalı! diyor.",
             "Bence sen kod yazmayı bırakıp bahçıvanlığa başlamalısın.",
             "Kodu yazdın mı yoksa klavyenin üzerine kedi mi oturdu?",
             "Kodun o kadar kötü ki, işlemci ısınmıyor, utancından yanıyor.",
@@ -197,6 +199,8 @@ const insultLibrary: { [lang: string]: { [key: string]: string[] } } = {
         ],
         'generic': [
             "Even StackOverflow is ashamed of you right now.",
+            "You made Terry Davis do somersaults in his grave. Congratulations! Quit programming and become an acrobatics teacher.",
+            "Even Richard Stallman does not wants your software to become free. He says: No one should see this shit!",
             "I think you should quit coding and start gardening.",
             "Did you write this code or did a cat walk over your keyboard?",
             "Your code is so bad, the CPU isn't heating up—it's burning with shame.",
